@@ -11,6 +11,7 @@ This library will not work without the support of these great open source librar
 1. Register your app on the developer account  
  - Go to the [Register New Client page](http://instagram.com/developer/clients/register/)  
  - Put your REDIRECT URI as this format: **yourappname://authorize**. This is a scheme URL you will gonna register on the xcode  
+ - Put your `APP_ID`, `APP_SECRET`, and `REDIRECT_URI` on the `DTInstagramPhotos.m`
 
 2. Set up your scheme URL on xcode  
 Go to your **Project Target**, on the **Info** tab at the bottom you will see the **URL Types**. Add new URL Type, on the **URL Schemes** put yourappname (the same as the above).  
