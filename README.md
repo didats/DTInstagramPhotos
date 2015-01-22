@@ -63,6 +63,18 @@ Receive the notification when the user logged in for the first time
 }
 ```
 
+##Contact
+I wrote this code for my own use, and making it available to anyone for the benefit of iOS Developer community.  
+
+You are not encourage to do, but sure I will be glad if you buy one of my apps here.   [http://appstore.com/dianagustriadi](http://appstore.com/dianagustriadi)  
+
+If you have any questions regarding this code, you could contact me here:  
+Website: [http://didatstriadi.com](http://didatstriadi.com)  
+Twitter: [@didats](http://twitter.com/didats)  
+
+If you have any project to share with me, you could contact my team below. We are available for iOS and Android Development from the scratch with affordable price:  
+Website: [http://rimbunesia.com](http://rimbunesia.com)
+
 ##License
 This code is distributed under the terms and conditions of the MIT license.
 
